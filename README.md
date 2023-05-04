@@ -35,8 +35,3 @@
 - React project that Includes multiple components (List - details)
 - Pagination
 - Used bootstrap
-
-## To Enhance
-
-- I think the project is small and 3 layers (API, Application, Infrastructure) will be enough but we could add common layer (to register services in it).
-- we could add more components in FE like Error component the specific error and log errors in a nice and enhance the UI to look nicer.
