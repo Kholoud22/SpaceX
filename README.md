@@ -3,7 +3,7 @@
 ## Backend Project
 
 - Inside backend\SpaceX folder
-- set CustomerSupport.sln to be your startup project then run (ctrl+f5)
+- set SpaceX.sln to be your startup project then run (ctrl+f5)
 - The Project has UnitTesting using XUnit we can run test from Test tab in visual studio
 
 **Note**
